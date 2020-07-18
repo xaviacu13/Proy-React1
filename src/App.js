@@ -29,7 +29,7 @@ const fecha = new Date().getFullYear();
   return (
     <Fragment>
       <Header
-       titulo ='Tienda Virtual'
+       titulo ='Tienda Virtual XAVI'
        fecha= {fecha}
 
       />
